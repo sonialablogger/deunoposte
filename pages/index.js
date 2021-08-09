@@ -20,45 +20,20 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
+            <h2>Como o Jogo do Bicho começou</h2>
+            <p>Em 1892, o Barão João Batista Vianna de Drummond projetou o jogo para seu zoológico. Quando foi nomeado barão pelo próprio Imperador Pedro II, este nobre abriu um zoológico no mesmo bairro da Vila Isabel, localizado na cidade do Rio de Janeiro.</p>
+            <p>Após a proclamação da República em 1889, o barão deixou de receber apoio financeiro do governo e seu zoológico foi comprometido. A fim de aliviar a situação, o barão criou um jogo parecido com uma loteria para estimular as visitas ao zoológico.</p>
+            <p>Cada dia ele colocava um desenho de um dos 25 animais em uma tábua e o colocava no topo de um poste. Esta é a origem da expressão "Deu no Poste".</p>
+            <p>Cada visitante que comprou um bilhete recebeu um bilhete com um dos animais e, no final do dia, os clientes que tinham o mesmo animal que o do quadro receberam um prêmio de 20 vezes o preço do bilhete.</p>
+            <p>Este jogo rapidamente se tornou popular, e este conceito de jogo começou a ser usado fora do zoológico apenas para jogos de azar. Foi colocado em diferentes empresas em toda a cidade sob o controle de poucas pessoas que garantiram o pagamento de prêmios e resultados.</p>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
+          
         </div>
       </main>
 
       <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
+          Powered by JogodoBicho Team
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
       </footer>
     </div>
   )
