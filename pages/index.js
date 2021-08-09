@@ -36,6 +36,14 @@ export default function Home() {
 
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/OP9faX4_l7o" title="apostar no jogo do bicho online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
+            <p>O "jogo do bicho" é uma loteria baseada em 25 animais do zoológico do Barão Drummond. Cada animal tem um número e é atribuído a 4 dezenas. As apostas são feitas em combinações entre esses animais, seus números, dezenas e/ou milhares relacionados a eles.</p>
+
+            <p>Os sorteios são feitos cinco vezes ao dia pelos bicheiros pertencentes a cada banca. Não há limite para o número de apostas que podem ser feitas, mas os bicheiros podem recusar as apostas se descobrirem que não podem pagar o prêmio.</p>
+
+
+
+Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
+            
         </div>
       </main>
 
