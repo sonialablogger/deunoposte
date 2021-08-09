@@ -34,7 +34,7 @@ export default function Home() {
             <p>O jogador tem na mesma aplicação a tabela de resultados em tempo real e tudo é completamente automático. Isto significa que, uma vez concluído um sorteio, todas as apostas são automaticamente avaliadas.</p>
             <p>Os ganhos são depositados na conta do jogador e o jogador pode decidir se continua jogando ou se retira seus ganhos.</p>
 
-            <iframe width="100%" src="https://www.youtube.com/embed/OP9faX4_l7o" title="apostar no jogo do bicho online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/OP9faX4_l7o" title="apostar no jogo do bicho online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
         </div>
       </main>
