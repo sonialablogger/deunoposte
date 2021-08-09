@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          <img src="/resultado-do-jogo-do-bicho.JPG" width="100%">
+          <img width="100%" src="/resultado-do-jogo-do-bicho.JPG" alt="resultados do jogo do bicho" />
         </p>
 
         <div className={styles.grid}>
