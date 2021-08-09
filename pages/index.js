@@ -27,6 +27,14 @@ export default function Home() {
             <p>Cada visitante que comprou um bilhete recebeu um bilhete com um dos animais e, no final do dia, os clientes que tinham o mesmo animal que o do quadro receberam um prêmio de 20 vezes o preço do bilhete.</p>
             <p>Este jogo rapidamente se tornou popular, e este conceito de jogo começou a ser usado fora do zoológico apenas para jogos de azar. Foi colocado em diferentes empresas em toda a cidade sob o controle de poucas pessoas que garantiram o pagamento de prêmios e resultados.</p>
 
+            <h2>Jogo do Bicho online</h2>
+            <p>Atualmente, todo o desenvolvimento do jogo do bicho tem ocorrido nas ruas do Brasil. Os bicheiros controlam os bairros ou áreas das cidades e os cambistas são os que vendem as cédulas para um determinado banco.</p>
+            <p>Mas e o mundo on-line? Bem, neste momento podemos dizer que até recentemente não havia um site de apostas do jogo do bicho que realmente atendesse às demandas dos usuários, até que a Lotodobicho saiu.</p>
+            <p>Lotodobicho é uma aplicação web profissional que opera como um banco universal para todo o Brasil e utiliza seus próprios resultados para avaliar as apostas dos jogadores.</p>
+            <p>Esta incrível plataforma de apostas tem tudo o que um apostador precisa. Isto significa que um jogador pode se concentrar exclusivamente no desenvolvimento de sua estratégia de apostas sem ter que ir de um lado para outros sites para ver os resultados do sorteio e do outro para verificar se seus boletos de apostas foram premiados.</p>
+            <p>O jogador tem na mesma aplicação a tabela de resultados em tempo real e tudo é completamente automático. Isto significa que, uma vez concluído um sorteio, todas as apostas são automaticamente avaliadas.</p>
+            <p>Os ganhos são depositados na conta do jogador e o jogador pode decidir se continua jogando ou se retira seus ganhos.</p>
+
           
         </div>
       </main>
