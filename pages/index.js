@@ -15,8 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          <img src="/resultado-do-jogo-do-bicho.JPG" width="100%">
         </p>
 
         <div className={styles.grid}>
